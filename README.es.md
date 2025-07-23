@@ -93,4 +93,4 @@ Carga el mejor modelo de los anteriores y utiliza el conjunto de test para hacer
 
 Almacena el modelo en la carpeta correspondiente.
 
-> Nota: También incorporamos muestras de solución en `./solution.ipynb` que te sugerimos honestamente que solo uses si estás atascado por más de 30 minutos o si ya has terminado y quieres compararlo con tu enfoque.
+> Nota: También incorporamos muestras de solución en [este link](https://github.com/4GeeksAcademy/image-classifier-project-tutorial/blob/main/solution.es.ipynb) que te sugerimos honestamente que solo uses si estás atascado por más de 30 minutos o si ya has terminado y quieres compararlo con tu enfoque.
